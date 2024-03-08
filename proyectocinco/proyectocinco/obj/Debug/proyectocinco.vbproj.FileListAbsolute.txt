@@ -10,3 +10,5 @@ C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\pro
 C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.exe
 C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.xml
 C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.pdb
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.formsemana2.resources
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.form2dividir.resources

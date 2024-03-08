@@ -13,4 +13,9 @@
 
 
     End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        formsemana2.Show()
+        form2dividir.Show()
+    End Sub
 End Class

@@ -80,6 +80,18 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="form2dividir.Designer.vb">
+      <DependentUpon>form2dividir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form2dividir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formsemana2.Designer.vb">
+      <DependentUpon>formsemana2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formsemana2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -99,6 +111,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form2dividir.resx">
+      <DependentUpon>form2dividir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formsemana2.resx">
+      <DependentUpon>formsemana2.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
