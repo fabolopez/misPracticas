@@ -1,0 +1,12 @@
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\bin\Debug\proyectocinco.exe.config
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\bin\Debug\proyectocinco.exe
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\bin\Debug\proyectocinco.pdb
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\bin\Debug\proyectocinco.xml
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.vbproj.AssemblyReference.cache
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.Form1.resources
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.Resources.resources
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.vbproj.GenerateResource.cache
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.vbproj.CoreCompileInputs.cache
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.exe
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.xml
+C:\Users\Dark\Documents\Programacion\Practicas\ProyectoSemana5\proyectocinco\proyectocinco\obj\Debug\proyectocinco.pdb
