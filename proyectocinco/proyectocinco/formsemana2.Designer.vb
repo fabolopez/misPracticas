@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class formsemana2
+Partial Class formNumero
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
@@ -35,7 +35,7 @@ Partial Class formsemana2
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(26, 42)
+        Me.Label1.Location = New System.Drawing.Point(120, 21)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(156, 18)
         Me.Label1.TabIndex = 0
@@ -43,7 +43,7 @@ Partial Class formsemana2
         '
         'numeroTexBox
         '
-        Me.numeroTexBox.Location = New System.Drawing.Point(188, 42)
+        Me.numeroTexBox.Location = New System.Drawing.Point(117, 42)
         Me.numeroTexBox.Name = "numeroTexBox"
         Me.numeroTexBox.Size = New System.Drawing.Size(154, 20)
         Me.numeroTexBox.TabIndex = 1
@@ -52,7 +52,7 @@ Partial Class formsemana2
         '
         Me.labelNombre.AutoSize = True
         Me.labelNombre.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.labelNombre.Location = New System.Drawing.Point(26, 119)
+        Me.labelNombre.Location = New System.Drawing.Point(120, 112)
         Me.labelNombre.Name = "labelNombre"
         Me.labelNombre.Size = New System.Drawing.Size(137, 18)
         Me.labelNombre.TabIndex = 2
@@ -60,14 +60,14 @@ Partial Class formsemana2
         '
         'nombreTextBox
         '
-        Me.nombreTextBox.Location = New System.Drawing.Point(169, 119)
+        Me.nombreTextBox.Location = New System.Drawing.Point(117, 142)
         Me.nombreTextBox.Name = "nombreTextBox"
         Me.nombreTextBox.Size = New System.Drawing.Size(154, 20)
         Me.nombreTextBox.TabIndex = 3
         '
         'btbAceptar
         '
-        Me.btbAceptar.Location = New System.Drawing.Point(47, 188)
+        Me.btbAceptar.Location = New System.Drawing.Point(323, 188)
         Me.btbAceptar.Name = "btbAceptar"
         Me.btbAceptar.Size = New System.Drawing.Size(79, 23)
         Me.btbAceptar.TabIndex = 4
@@ -76,7 +76,7 @@ Partial Class formsemana2
         '
         'btnLimpiar
         '
-        Me.btnLimpiar.Location = New System.Drawing.Point(151, 188)
+        Me.btnLimpiar.Location = New System.Drawing.Point(12, 188)
         Me.btnLimpiar.Name = "btnLimpiar"
         Me.btnLimpiar.Size = New System.Drawing.Size(79, 23)
         Me.btnLimpiar.TabIndex = 5
@@ -85,14 +85,14 @@ Partial Class formsemana2
         '
         'btnSalir
         '
-        Me.btnSalir.Location = New System.Drawing.Point(360, 188)
+        Me.btnSalir.Location = New System.Drawing.Point(12, 12)
         Me.btnSalir.Name = "btnSalir"
-        Me.btnSalir.Size = New System.Drawing.Size(42, 23)
+        Me.btnSalir.Size = New System.Drawing.Size(37, 27)
         Me.btnSalir.TabIndex = 6
         Me.btnSalir.Text = "Salir"
         Me.btnSalir.UseVisualStyleBackColor = True
         '
-        'formsemana2
+        'formNumero
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -104,8 +104,8 @@ Partial Class formsemana2
         Me.Controls.Add(Me.labelNombre)
         Me.Controls.Add(Me.numeroTexBox)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "formsemana2"
-        Me.Text = " "
+        Me.Name = "formNumero"
+        Me.Text = "Gana un premio"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

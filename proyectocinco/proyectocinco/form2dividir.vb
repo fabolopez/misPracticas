@@ -13,14 +13,18 @@
             Return
         End If
 
-
         resultado = (numero1 \ numero2)
         labelResultado.Text = resultado
 
 
+    End Sub
 
+    Private Sub btnLimpiar_Click(sender As Object, e As EventArgs) Handles btnLimpiar.Click
+        textBoxn1.Clear()
+        textBoxn2.Clear()
+    End Sub
 
-
-
+    Private Sub btnSalir_Click(sender As Object, e As EventArgs) Handles btnSalir.Click
+        Me.Hide()
     End Sub
 End Class

@@ -28,6 +28,8 @@ Partial Class form2dividir
         Me.labelDivision = New System.Windows.Forms.Label()
         Me.btnCalcular = New System.Windows.Forms.Button()
         Me.labelResultado = New System.Windows.Forms.Label()
+        Me.btnLimpiar = New System.Windows.Forms.Button()
+        Me.btnSalir = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -78,17 +80,36 @@ Partial Class form2dividir
         Me.labelResultado.AutoSize = True
         Me.labelResultado.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.labelResultado.ForeColor = System.Drawing.Color.Green
-        Me.labelResultado.Location = New System.Drawing.Point(330, 82)
+        Me.labelResultado.Location = New System.Drawing.Point(338, 81)
         Me.labelResultado.Name = "labelResultado"
-        Me.labelResultado.Size = New System.Drawing.Size(87, 24)
+        Me.labelResultado.Size = New System.Drawing.Size(0, 24)
         Me.labelResultado.TabIndex = 5
-        Me.labelResultado.Text = "resultado"
+        '
+        'btnLimpiar
+        '
+        Me.btnLimpiar.Location = New System.Drawing.Point(189, 186)
+        Me.btnLimpiar.Name = "btnLimpiar"
+        Me.btnLimpiar.Size = New System.Drawing.Size(75, 29)
+        Me.btnLimpiar.TabIndex = 6
+        Me.btnLimpiar.Text = "Limpiar"
+        Me.btnLimpiar.UseVisualStyleBackColor = True
+        '
+        'btnSalir
+        '
+        Me.btnSalir.Location = New System.Drawing.Point(342, 186)
+        Me.btnSalir.Name = "btnSalir"
+        Me.btnSalir.Size = New System.Drawing.Size(75, 29)
+        Me.btnSalir.TabIndex = 7
+        Me.btnSalir.Text = "Salir"
+        Me.btnSalir.UseVisualStyleBackColor = True
         '
         'form2dividir
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(467, 236)
+        Me.Controls.Add(Me.btnSalir)
+        Me.Controls.Add(Me.btnLimpiar)
         Me.Controls.Add(Me.labelResultado)
         Me.Controls.Add(Me.btnCalcular)
         Me.Controls.Add(Me.labelDivision)
@@ -96,7 +117,7 @@ Partial Class form2dividir
         Me.Controls.Add(Me.textBoxn1)
         Me.Controls.Add(Me.Label1)
         Me.Name = "form2dividir"
-        Me.Text = "form2dividir"
+        Me.Text = "Dvidir"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -108,4 +129,6 @@ Partial Class form2dividir
     Friend WithEvents labelDivision As Label
     Friend WithEvents btnCalcular As Button
     Friend WithEvents labelResultado As Label
+    Friend WithEvents btnLimpiar As Button
+    Friend WithEvents btnSalir As Button
 End Class

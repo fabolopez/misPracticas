@@ -1,4 +1,4 @@
-﻿Public Class formsemana2
+﻿Public Class formNumero
     Private Sub btbAceptar_Click(sender As Object, e As EventArgs) Handles btbAceptar.Click
         Dim NombrePersona As String = nombreTextBox.Text
 
@@ -27,4 +27,7 @@
     Private Sub btnSalir_Click(sender As Object, e As EventArgs) Handles btnSalir.Click
         Me.Hide()
     End Sub
+
+
+
 End Class

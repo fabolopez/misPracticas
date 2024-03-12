@@ -42,14 +42,14 @@ Partial Class Form1
         Me.listBoxTablas.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.listBoxTablas.FormattingEnabled = True
         Me.listBoxTablas.ItemHeight = 18
-        Me.listBoxTablas.Location = New System.Drawing.Point(46, 48)
+        Me.listBoxTablas.Location = New System.Drawing.Point(48, 52)
         Me.listBoxTablas.Name = "listBoxTablas"
         Me.listBoxTablas.Size = New System.Drawing.Size(199, 274)
         Me.listBoxTablas.TabIndex = 1
         '
         'btnCalcular
         '
-        Me.btnCalcular.Location = New System.Drawing.Point(283, 83)
+        Me.btnCalcular.Location = New System.Drawing.Point(283, 85)
         Me.btnCalcular.Name = "btnCalcular"
         Me.btnCalcular.Size = New System.Drawing.Size(75, 23)
         Me.btnCalcular.TabIndex = 2
@@ -65,7 +65,7 @@ Partial Class Form1
         Me.Controls.Add(Me.listBoxTablas)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Tabla del 9"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
