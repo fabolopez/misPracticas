@@ -22,6 +22,8 @@
     Private Sub btnLimpiar_Click(sender As Object, e As EventArgs) Handles btnLimpiar.Click
         textBoxn1.Clear()
         textBoxn2.Clear()
+        labelResultado.Text = ""
+
     End Sub
 
     Private Sub btnSalir_Click(sender As Object, e As EventArgs) Handles btnSalir.Click
